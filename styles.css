@@ -1,0 +1,24 @@
+.listecours{
+    list-style: none;
+    display: flex;
+}
+
+.fichiers{
+    list-style: none;
+    display: flex;
+}
+
+.liensrapides{
+    list-style: none;
+    display: flex;
+}
+
+nav{
+    list-style: none;
+    display: flex;
+}
+
+.listetravail{
+			list-style: none;
+			display: flex;
+}
